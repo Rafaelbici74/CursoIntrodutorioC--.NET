@@ -1,0 +1,11 @@
+C:\Users\MR- INFO\Documents\PjtsCSharp\ProductClientHub\ProductClientHub.Exceptions\bin\Debug\net10.0\ProductClientHub.Exceptions.deps.json
+C:\Users\MR- INFO\Documents\PjtsCSharp\ProductClientHub\ProductClientHub.Exceptions\bin\Debug\net10.0\ProductClientHub.Exceptions.dll
+C:\Users\MR- INFO\Documents\PjtsCSharp\ProductClientHub\ProductClientHub.Exceptions\bin\Debug\net10.0\ProductClientHub.Exceptions.pdb
+C:\Users\MR- INFO\Documents\PjtsCSharp\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net10.0\ProductClientHub.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MR- INFO\Documents\PjtsCSharp\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net10.0\ProductClientHub.Exceptions.AssemblyInfoInputs.cache
+C:\Users\MR- INFO\Documents\PjtsCSharp\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net10.0\ProductClientHub.Exceptions.AssemblyInfo.cs
+C:\Users\MR- INFO\Documents\PjtsCSharp\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net10.0\ProductClientHub.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\MR- INFO\Documents\PjtsCSharp\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net10.0\ProductClientHub.Exceptions.dll
+C:\Users\MR- INFO\Documents\PjtsCSharp\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net10.0\refint\ProductClientHub.Exceptions.dll
+C:\Users\MR- INFO\Documents\PjtsCSharp\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net10.0\ProductClientHub.Exceptions.pdb
+C:\Users\MR- INFO\Documents\PjtsCSharp\ProductClientHub\ProductClientHub.Exceptions\obj\Debug\net10.0\ref\ProductClientHub.Exceptions.dll
